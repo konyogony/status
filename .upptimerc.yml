@@ -1,31 +1,81 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: konyogony
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Portfolio
+    url: https://konyogony.dev
+
+  - name: Physics Blog
+    url: https://physics.konyogony.dev
+
+  - name: Ocean
+    url: https://ocean.konyogony.dev
+
+  - name: Hypr Project
+    url: https://hypr.konyogony.dev
+
+  - name: Stats API
+    url: https://api.konyogony.dev/get-stats
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Physics Blog Asset (WebP)
+    url: https://physics.konyogony.dev/assets/two-plates.webp
+    expectedStatusCodes:
+      - 200
+
+  - name: Zipline CDN (Ocean WebP)
+    url: https://cdn.konyogony.dev/u/ocean-kony.webp
+    expectedStatusCodes:
+      - 200
+
+  - name: Zipline CDN (Full Paper PDF)
+    url: https://cdn.konyogony.dev/u/full.pdf
+    expectedStatusCodes:
+      - 200
+
+  - name: Zipline CDN (Short Paper PDF)
+    url: https://cdn.konyogony.dev/u/shortened.pdf
+    expectedStatusCodes:
+      - 200
+
+  - name: "Redirect: Ocean Full Paper"
+    url: https://ocean.konyogony.dev/full
+    expectedStatusCodes:
+      - 200
+      - 301
+
+  - name: "Redirect: Ocean Short Paper"
+    url: https://ocean.konyogony.dev/short
+    expectedStatusCodes:
+      - 200
+      - 301
+
+  - name: "Redirect: Steam"
+    url: https://konyogony.dev/s/steam
+    expectedStatusCodes:
+      - 200
+      - 308
+
+  - name: "Redirect: Spotify"
+    url: https://konyogony.dev/s/spotify
+    expectedStatusCodes:
+      - 200
+      - 308
+
+  - name: "Redirect: Discord"
+    url: https://konyogony.dev/s/discord
+    expectedStatusCodes:
+      - 200
+      - 308
+
+  - name: "Redirect: Wakatime"
+    url: https://konyogony.dev/s/wakatime
+    expectedStatusCodes:
+      - 200
+      - 308
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  cname: status.konyogony.dev
+  name: "@konyogony status"
