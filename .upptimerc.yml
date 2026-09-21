@@ -79,3 +79,4 @@ sites:
 status-website:
   cname: status.konyogony.dev
   name: "@konyogony status"
+  publish: true
