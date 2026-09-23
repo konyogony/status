@@ -202,19 +202,19 @@
     "url": "https://konyogony.dev/s/steam",
     "icon": "https://icons.duckduckgo.com/ip3/konyogony.dev.ico",
     "slug": "redirect-steam",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 279,
-    "timeDay": 675,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "status": "up",
+    "uptime": "90.37%",
+    "uptimeDay": "79.58%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "90.37%",
+    "time": 433,
+    "timeDay": 1004,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2026-09-23": 0
+      "2026-09-23": 294
     }
   },
   {
