@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 259,
     "timeDay": 256,
-    "timeWeek": 320,
+    "timeWeek": 271,
     "timeMonth": 259,
     "timeYear": 259,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 209,
-    "timeWeek": 276,
+    "timeWeek": 283,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 265,
     "timeDay": 385,
-    "timeWeek": 324,
+    "timeWeek": 271,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 172,
-    "timeWeek": 235,
+    "timeWeek": 229,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.konyogony.dev.ico",
     "slug": "stats-api",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.79%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
     "time": 472,
     "timeDay": 622,
     "timeWeek": 499,
@@ -105,7 +105,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 160,
-    "timeWeek": 121,
+    "timeWeek": 114,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "uptimeYear": "99.91%",
     "time": 1644,
     "timeDay": 1404,
-    "timeWeek": 1274,
+    "timeWeek": 1215,
     "timeMonth": 1644,
     "timeYear": 1644,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
     "uptimeYear": "99.92%",
     "time": 2841,
     "timeDay": 3077,
-    "timeWeek": 2720,
+    "timeWeek": 2680,
     "timeMonth": 2841,
     "timeYear": 2841,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "uptimeYear": "99.92%",
     "time": 2575,
     "timeDay": 2999,
-    "timeWeek": 2623,
+    "timeWeek": 2564,
     "timeMonth": 2575,
     "timeYear": 2575,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "99.92%",
     "time": 2925,
     "timeDay": 3214,
-    "timeWeek": 2836,
+    "timeWeek": 2731,
     "timeMonth": 2925,
     "timeYear": 2925,
     "dailyMinutesDown": {
@@ -203,7 +203,7 @@
     "uptimeYear": "99.92%",
     "time": 2660,
     "timeDay": 3225,
-    "timeWeek": 2755,
+    "timeWeek": 2657,
     "timeMonth": 2660,
     "timeYear": 2660,
     "dailyMinutesDown": {
@@ -215,17 +215,17 @@
     "url": "https://konyogony.dev/s/steam",
     "icon": "https://icons.duckduckgo.com/ip3/konyogony.dev.ico",
     "slug": "redirect-steam",
-    "status": "down",
-    "uptime": "76.93%",
-    "uptimeDay": "93.30%",
-    "uptimeWeek": "79.57%",
-    "uptimeMonth": "76.93%",
-    "uptimeYear": "76.93%",
-    "time": 362,
-    "timeDay": 318,
-    "timeWeek": 377,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "status": "up",
+    "uptime": "76.57%",
+    "uptimeDay": "80.07%",
+    "uptimeWeek": "77.68%",
+    "uptimeMonth": "76.57%",
+    "uptimeYear": "76.57%",
+    "time": 361,
+    "timeDay": 325,
+    "timeWeek": 360,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2026-09-23": 294,
       "2026-09-24": 352,
@@ -251,7 +251,7 @@
       "2026-10-16": 174,
       "2026-10-18": 272,
       "2026-10-17": 68,
-      "2026-10-20": 97
+      "2026-10-20": 287
     }
   },
   {
@@ -267,7 +267,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 498,
-    "timeWeek": 495,
+    "timeWeek": 416,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {}
@@ -285,7 +285,7 @@
     "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 220,
-    "timeWeek": 289,
+    "timeWeek": 247,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -303,7 +303,7 @@
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 142,
-    "timeWeek": 471,
+    "timeWeek": 394,
     "timeMonth": 378,
     "timeYear": 378,
     "dailyMinutesDown": {}
