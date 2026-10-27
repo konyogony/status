@@ -1,7 +1,7 @@
 url: https://konyogony.dev/s/steam
-status: up
-code: 200
-responseTime: 552
-lastUpdated: 2026-10-27T01:44:20.653Z
+status: down
+code: 429
+responseTime: 217
+lastUpdated: 2026-10-27T02:07:24.235Z
 startTime: 2026-09-21T14:18:30.991Z
 generator: Upptime <https://github.com/upptime/upptime>
