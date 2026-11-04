@@ -1,7 +1,7 @@
 url: https://api.konyogony.dev/get-stats
-status: up
-code: 200
-responseTime: 341
-lastUpdated: 2026-11-03T03:47:20.454Z
+status: down
+code: 404
+responseTime: 359
+lastUpdated: 2026-11-04T00:11:25.653Z
 startTime: 2026-09-21T14:18:11.489Z
 generator: Upptime <https://github.com/upptime/upptime>
