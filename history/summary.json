@@ -13,7 +13,7 @@
     "time": 269,
     "timeDay": 263,
     "timeWeek": 280,
-    "timeMonth": 279,
+    "timeMonth": 281,
     "timeYear": 269,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 253,
     "timeDay": 174,
     "timeWeek": 186,
-    "timeMonth": 278,
+    "timeMonth": 283,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 240,
     "timeDay": 153,
     "timeWeek": 217,
-    "timeMonth": 255,
+    "timeMonth": 258,
     "timeYear": 240,
     "dailyMinutesDown": {}
   },
@@ -77,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.konyogony.dev.ico",
     "slug": "stats-api",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.02%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.16%",
     "time": 469,
     "timeDay": 525,
     "timeWeek": 460,
-    "timeMonth": 473,
+    "timeMonth": 475,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2026-09-26": 562,
@@ -107,7 +107,7 @@
     "time": 162,
     "timeDay": 154,
     "timeWeek": 146,
-    "timeMonth": 157,
+    "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -125,7 +125,7 @@
     "time": 1412,
     "timeDay": 1029,
     "timeWeek": 1079,
-    "timeMonth": 1120,
+    "timeMonth": 1123,
     "timeYear": 1412,
     "dailyMinutesDown": {
       "2026-10-11": 36
@@ -145,7 +145,7 @@
     "time": 2435,
     "timeDay": 1615,
     "timeWeek": 1694,
-    "timeMonth": 2059,
+    "timeMonth": 2050,
     "timeYear": 2435,
     "dailyMinutesDown": {
       "2026-10-11": 35
@@ -157,15 +157,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.konyogony.dev.ico",
     "slug": "zipline-cdn-short-paper-pdf",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 2282,
     "timeDay": 1559,
     "timeWeek": 1690,
-    "timeMonth": 2024,
+    "timeMonth": 2019,
     "timeYear": 2282,
     "dailyMinutesDown": {
       "2026-10-11": 35
@@ -177,15 +177,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocean.konyogony.dev.ico",
     "slug": "redirect-ocean-full-paper",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 2514,
     "timeDay": 1778,
     "timeWeek": 1750,
-    "timeMonth": 2111,
+    "timeMonth": 2106,
     "timeYear": 2514,
     "dailyMinutesDown": {
       "2026-10-11": 34
@@ -197,15 +197,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocean.konyogony.dev.ico",
     "slug": "redirect-ocean-short-paper",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 2355,
     "timeDay": 1702,
     "timeWeek": 1735,
-    "timeMonth": 2089,
+    "timeMonth": 2082,
     "timeYear": 2355,
     "dailyMinutesDown": {
       "2026-10-11": 34
@@ -216,17 +216,17 @@
     "url": "https://konyogony.dev/s/steam",
     "icon": "https://icons.duckduckgo.com/ip3/konyogony.dev.ico",
     "slug": "redirect-steam",
-    "status": "up",
-    "uptime": "82.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.68%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "80.72%",
-    "uptimeMonth": "86.48%",
-    "uptimeYear": "82.38%",
-    "time": 368,
-    "timeDay": 513,
-    "timeWeek": 335,
-    "timeMonth": 375,
-    "timeYear": 368,
+    "uptimeMonth": "88.07%",
+    "uptimeYear": "82.68%",
+    "time": 366,
+    "timeDay": 343,
+    "timeWeek": 325,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2026-09-23": 294,
       "2026-09-24": 352,
@@ -260,7 +260,8 @@
       "2026-11-08": 601,
       "2026-11-09": 636,
       "2026-11-10": 287,
-      "2026-11-11": 418
+      "2026-11-11": 418,
+      "2026-11-14": 0
     }
   },
   {
@@ -277,7 +278,7 @@
     "time": 397,
     "timeDay": 550,
     "timeWeek": 399,
-    "timeMonth": 431,
+    "timeMonth": 433,
     "timeYear": 397,
     "dailyMinutesDown": {}
   },
@@ -295,7 +296,7 @@
     "time": 199,
     "timeDay": 259,
     "timeWeek": 195,
-    "timeMonth": 207,
+    "timeMonth": 208,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -313,7 +314,7 @@
     "time": 391,
     "timeDay": 418,
     "timeWeek": 411,
-    "timeMonth": 405,
+    "timeMonth": 399,
     "timeYear": 391,
     "dailyMinutesDown": {}
   }
